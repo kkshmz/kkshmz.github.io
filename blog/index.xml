@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on My New Hugo Site</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>https://kkshmz.github.io/blog/</link>
     <description>Recent content in Blogs on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 27 Nov 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kkshmz.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Blog</title>
-      <link>http://localhost:1313/blog/blog/</link>
+      <link>https://kkshmz.github.io/blog/blog/</link>
       <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/blog/</guid>
+      <guid>https://kkshmz.github.io/blog/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Art</title>
-      <link>http://localhost:1313/blog/art/</link>
+      <link>https://kkshmz.github.io/blog/art/</link>
       <pubDate>Sat, 21 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/art/</guid>
+      <guid>https://kkshmz.github.io/blog/art/</guid>
       <description>Making something good. Art in many ways is to create or enlighten something for an audience, this could be to enlighten people to how much of their privacy is being used by companies or it could be to create a sense of thoughtfulness or remembereance by creating a unique melody through the ripples of an earthquake.
 I used to grow up thinking that making something good was something that was subjective, and that to make something was to cater to an audience with that specific taste.</description>
     </item>
     
     <item>
       <title>Helloworld</title>
-      <link>http://localhost:1313/blog/helloworld/</link>
+      <link>https://kkshmz.github.io/blog/helloworld/</link>
       <pubDate>Sat, 30 Sep 2017 22:35:30 +0900</pubDate>
       
-      <guid>http://localhost:1313/blog/helloworld/</guid>
+      <guid>https://kkshmz.github.io/blog/helloworld/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ultricies fermentum pulvinar. Etiam pharetra vestibulum lorem, ut euismod ligula tristique ullamcorper. Morbi viverra nisl vel nibh sagittis bibendum. Nunc vitae dui iaculis, iaculis nulla a, dapibus est. Duis interdum enim quis erat pulvinar, et rutrum risus sollicitudin. Morbi vitae egestas erat. Nam lobortis congue nibh, eu rutrum diam sodales eget. In fringilla ante at fermentum porttitor. Sed id tortor sem.</description>
     </item>
     
