@@ -3,44 +3,80 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kkshmz.github.io/blog/blog/</loc>
+    <loc>http://localhost:1313/projects/actfestival18/</loc>
+    <lastmod>2018-02-18T22:47:10+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/projects/yn18ss-show/</loc>
+    <lastmod>2018-02-16T11:35:34+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/projects/yn2121/</loc>
+    <lastmod>2018-02-15T17:04:27+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/projects/yn18ss-research/</loc>
+    <lastmod>2018-02-13T01:12:08+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/blog/blog/</loc>
     <lastmod>2017-11-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kkshmz.github.io/blog/art/</loc>
+    <loc>http://localhost:1313/blog/art/</loc>
     <lastmod>2017-10-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kkshmz.github.io/blog/helloworld/</loc>
+    <loc>http://localhost:1313/blog/helloworld/</loc>
     <lastmod>2017-09-30T22:35:30+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kkshmz.github.io/whentwenty/</loc>
+    <loc>http://localhost:1313/whentwenty/</loc>
     <lastmod>2016-11-14T15:26:33+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kkshmz.github.io/blog/</loc>
+    <loc>http://localhost:1313/projects/junctionasia/</loc>
+    <lastmod>2016-05-15T15:43:07+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/projects/slushasia/</loc>
+    <lastmod>2016-03-15T15:42:57+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2017-11-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kkshmz.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kkshmz.github.io/</loc>
-    <lastmod>2017-11-27T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2018-02-18T22:47:10+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kkshmz.github.io/tags/</loc>
+    <loc>http://localhost:1313/projects/</loc>
+    <lastmod>2018-02-18T22:47:10+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/</loc>
     <priority>0</priority>
   </url>
   
