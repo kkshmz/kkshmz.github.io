@@ -12,21 +12,20 @@
     
     
     <item>
-      <title>21</title>
-      <link>https://kkshmz.github.io/blog/21/</link>
-      <pubDate>Mon, 27 Nov 2017 15:12:58 +0900</pubDate>
+      <title>Before enrolling into a thing called &#39;College&#39;</title>
+      <link>https://kkshmz.github.io/blog/startingsfc/</link>
+      <pubDate>Tue, 27 Feb 2018 13:57:38 +0900</pubDate>
       
-      <guid>https://kkshmz.github.io/blog/21/</guid>
-      <description>orem ipsum（ロレム・イプサム、略してリプサム lipsum ともいう）とは、出版、ウェブデザイン、グラフィックデザインなどの諸分野において使用されている典型的なダミーテキスト。書籍やウェブページや広告などのデザインのプロトタイプを制作したり顧客にプレゼンテーションしたりする際に、まだ正式な文章の出来上がっていないテキスト部分の書体（フォント）、タイポグラフィ、レイアウトなどといった視覚的なデザインを調整したりわかりやすく見せるために用いられる。 「lorem ipsum」は様々なバリエーションがあるが、 .. orem ipsum（ロレム・イプサム、略してリプサム lipsum ともいう）とは、出版、ウェブデザイン、グラフィックデザインなどの諸分野において使用されている典型的なダミーテキスト。書籍やウェブページや広告などのデザインのプロトタイプを制作したり顧客にプレゼンテーションしたりする際に、まだ正式な文章の出来上がっていないテキスト部分の書体（フォント）、タイポグラフィ、レイアウトなどといった視覚的なデザインを調整したりわかりやすく見せるために用いられる。 「lorem ipsum」は様々なバリエーションがあるが、 .. orem ipsum（ロレム・イプサム、略してリプサム lipsum ともいう）とは、出版、ウェブデザイン、グラフィックデザインなどの諸分野において使用されている典型的なダミーテキスト。書籍やウェブページや広告などのデザインのプロトタイプを制作したり顧客にプレゼンテーションしたりする際に、まだ正式な文章の出来上がっていないテキスト部分の書体（フォント）、タイポグラフィ、レイアウトなどといった視覚的なデザインを調整したりわかりやすく見せるために用いられる。 「lorem ipsum」は様々なバリエーションがあるが、 .. orem ipsum（ロレム・イプサム、略してリプサム lipsum ともいう）とは、出版、ウェブデザイン、グラフィックデザインなどの諸分野において使用されている典型的なダミーテキスト。書籍やウェブページや広告などのデザインのプロトタイプを制作したり顧客にプレゼンテーションしたりする際に、まだ正式な文章の出来上がっていないテキスト部分の書体（フォント）、タイポグラフィ、レイアウトなどといった視覚的なデザインを調整したりわかりやすく見せるために用いられる。 「lorem ipsum」は様々なバリエーションがあるが、 .. orem ipsum（ロレム・イプサム、略してリプサム lipsum ともいう）とは、出版、ウェブデザイン、グラフィックデザインなどの諸分野において使用されている典型的なダミーテキスト。書籍やウェブページや広告などのデザインのプロトタイプを制作したり顧客にプレゼンテーションしたりする際に、まだ正式な文章の出来上がっていないテキスト部分の書体（フォント）、タイポグラフィ、レイアウトなどといった視覚的なデザインを調整したりわかりやすく見せるために用いられる。 「lorem ipsum」は様々なバリエーションがあるが、 .. orem ipsum（ロレム・イプサム、略してリプサム lipsum ともいう）とは、出版、ウェブデザイン、グラフィックデザインなどの諸分野において使用されている典型的なダミーテキスト。書籍やウェブページや広告などのデザインのプロトタイプを制作したり顧客にプレゼンテーションしたりする際に、まだ正式な文章の出来上がっていないテキスト部分の書体（フォント）、タイポグラフィ、レイアウトなどといった視覚的なデザインを調整したりわかりやすく見せるために用いられる。 「lorem ipsum」は様々なバリエーションがあるが、 ..</description>
-    </item>
-    
-    <item>
-      <title>Blog</title>
-      <link>https://kkshmz.github.io/blog/blog/</link>
-      <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://kkshmz.github.io/blog/blog/</guid>
-      <description></description>
+      <guid>https://kkshmz.github.io/blog/startingsfc/</guid>
+      <description>自分がSFCに入学するときに知りたかったこととか、書いてみる。
+目次  始まり 僻地を使おう！ 研究会   &amp;nbsp;
+始まり データまじ卍 SFCの一つの利点としては、縦のつながりが以上に強いって言うのと、割と自由なところ。 あとは、インフラがやばいほどではないけど、 データの管理の仕方が最後にめっちゃ役に立つから、それを大事にすること。 →自分自身は全部githubで管理しているけど、そのためにKeio Driveみたいなのが存在していて最初は外部シェアリングの設定されてないけど、詳細設定から外部も参加できることができるように設定できる。Github入れるときには、年度で分けて、submoduleにしたりして、管理してる。そうすれば、一年で上限の2GBが使える。
+ Driveに入れると、４年で卒業するときの最後にめっちゃデータを落とさないといけないから、結構大変かもだけど、便利。  最近のドライブのアプリだとSelective Syncといった自分でどのファイルを同期させるかが決められるから、結構便利。自分自身は自分のとKeio Driveを両方Finderに入れてる。   大学生っていうゴルデンチケット
+&amp;nbsp;
+研究会 SFCの研究会でなくってもいいっていう裏ルート SFCは一年生から入れてすごいみたいなのになってるけど、別に研究会がSFCじゃなくてもいいっていうオプションは常にある。 中に他の大学の研究会に聴講したりだとかする人も少なくはないし、そんな道もあるんだなとは思う。 SFCでも先生自体が他の大学と連携してたりしていて、そういう機会もあったりもする。 例でいうと、鈴木寛先生の研究会などは東大と合同などで実施されることだってあるし、他の研究会などで外部の研究者などとの関わりがあったりするし他にもいっぱいあると思うから、「私僻地でまじ卍〜」みたいな話できるけど、外に出ることもできるよと。
+研究会決める時間帯 脇田先生がいつも研究会の説明会などで言ってるのは、3年間ぐらいどこかに所属していて、死ぬ気で頑張ればいいものを作れる人になれると言ってて、4年になった今少しその気持ちはわかる。 「研究すること自体が大学の意味だ」「SFCは一年生から研究会から入れる意味考えろ！」みたいな話はよくされるのですが、そういう人は外部での活動であったりをすることにおけるメリットに目を向けない人たちばかりだと思うし、そういうのに関心がない人たちだと考えてる。
+高三からスタートアップを手伝って、大学一年生から２年生までSLUSHなどをやってた僕などは研究会などをこのタイミングでとってしまったら、時間がなくなってしまって、全然入る理由がなくなってしまうと思ってやめました。 結果を見ると、うまく行った反面もありますが、自分が作るものが自分の正義を語る世界の中だと、もっと早く回して、両立できる作戦を作り上げるのもよかったなとは思います。
+研究会の選択 理論をやればいいか、実験的にそれをやっていくべきなのかみたいな話は組織経営とか、会社を立ち上げる</description>
     </item>
     
     <item>
@@ -37,15 +36,6 @@
       <guid>https://kkshmz.github.io/blog/art/</guid>
       <description>Making something good. Art in many ways is to create or enlighten something for an audience, this could be to enlighten people to how much of their privacy is being used by companies or it could be to create a sense of thoughtfulness or remembereance by creating a unique melody through the ripples of an earthquake.
 I used to grow up thinking that making something good was something that was subjective, and that to make something was to cater to an audience with that specific taste.</description>
-    </item>
-    
-    <item>
-      <title>Helloworld</title>
-      <link>https://kkshmz.github.io/blog/helloworld/</link>
-      <pubDate>Sat, 30 Sep 2017 22:35:30 +0900</pubDate>
-      
-      <guid>https://kkshmz.github.io/blog/helloworld/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ultricies fermentum pulvinar. Etiam pharetra vestibulum lorem, ut euismod ligula tristique ullamcorper. Morbi viverra nisl vel nibh sagittis bibendum. Nunc vitae dui iaculis, iaculis nulla a, dapibus est. Duis interdum enim quis erat pulvinar, et rutrum risus sollicitudin. Morbi vitae egestas erat. Nam lobortis congue nibh, eu rutrum diam sodales eget. In fringilla ante at fermentum porttitor. Sed id tortor sem.</description>
     </item>
     
   </channel>
