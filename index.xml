@@ -1,15 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Kye &#39;kkshmz&#39; Shimizu</title>
     <link>https://kkshmz.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Kye &#39;kkshmz&#39; Shimizu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Apr 2018 01:13:02 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 11 May 2018 23:09:12 -0400</lastBuildDate>
     
 	<atom:link href="https://kkshmz.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Review during stay in NYC 2018SS</title>
+      <link>https://kkshmz.github.io/blog/18ss-nyc-pt1/</link>
+      <pubDate>Fri, 11 May 2018 23:09:12 -0400</pubDate>
+      
+      <guid>https://kkshmz.github.io/blog/18ss-nyc-pt1/</guid>
+      <description>はじめに WIPだから、色々CSSも壊れるし、まだ工事中だよ。
+作者について 自分自身は東京うまれ、アメリカのテキサス州育ち、SFC通いっていうのもあって、アイデンテティー自体はアメリカ人でもないし、日本人でもない中間的な存在であったりする。 地元どこって言われると、困るし、かと言ってアメリカは中学校卒業ぐらいまでだったので、完全にカルチャー染まってるかというと微妙。 あと、割とテキサス州だとSXSWの開催土地としてされるオースティンなどが取り上げられますが、そこからちょっと離れた小さなSan Antonioという田舎だったので、NYの都会感はなかなかびっくりでした。
+そんなバックグラウンドもあり、いつも日本全体の立場や あ、あといまだにジャポニカ学習帳で漢字練習してるぐらいなので、多めに見てください
+NYCにおけるDesign Researchについて NYCに到着した当日にSVAのDesign Research MAの卒論発表会みたいなものに参加した。何を期待していたのかわからないが、予想以上に発表に残念だった。SVA Design Research 自体にはPaola Antonelli やMIT Media Lab創業者のNicholas Negroponteが設立に関わっていると書かれているが、実際プログラムを見てる感じでは現場でDesign Historyの一環として見なされている感じが理解でき、その結果として卒論でのリサーチが定量的リサーチの極みみたいなものが出されていた。
+また、SVAだけでなくても、Parsons Art and Design History and Theory MADS exhibition に足を運んで見て、行きましたが、なんだろう。
+僕自身は東京にいる帰国子女っていうのものあって、いつもヨーロッパで、ロンドンで、LAでみたいな感じで海外のデザインの動向について知りたがりみたいな部分がいつもあった。それと同じ感じでNYも見ていて、なんか全体的に綺麗っていうか、んー、えらいやんみたいな感じだった。あと、自分自身とはなんだろうみたいなのが自分の印象の中では、間違っていても話すことができていて、ひたすら羨ましかったかも。自分ってなんだっけ。なんでこういうのに美意識持っちゃうんだっけみたいな。これらは自分の社会状況などに反映するなど様々な形として現れたが、すごい納得した。 っていうか、自分が自分であるのが社会の産物の一つとして表してい流作品が多く、特に自分の中でも親近感もあるから響いたものとして、Asian ImmigrantとしてのAmerican Historyを描いたガイドブックみたいなものだった。 巨大な本を様々なところで切って、自分の過去の思いなどを埋め込む、インタラクティブダイヤリーみたいな。
+初めての人種ヘイト表現言われた時とか、自分自身がアメリカっていうアリーナで自分の国をある意味背負ってる重さみたいなのを描かれていて、自分自身もそういう経験があって、グサッときた。
+けど、これらの作品自体はどのような行動や問い自体を促すかっていうと、やっぱりアメリカにおけるPrivalidge問題みたいな。アメリカン・ドリーム目指す弱者異色民族みたいなのになるのかな。進むべき行動は少なくとも、ここにはなかった。
+なんだろう、自分自身が実験的にやっていて、いろんな試行錯誤してる作品を見ることの方が好きだったり、それらの方が自分の怠情を明らかにするから好きっていうのもあるけど。（参考：すげさんの「いいからやれ」）。好きな作品自体は試行錯誤自体を明らかにしていて、作者自身がこのようなものを考えていたりだとかをスケッチとか、時間軸などで論点がどのように変わっていたかなどが示されていて、逆にそうでないものは圧倒的な暴力によって現れて、去っていた。
+水が８割で他がインターネットっていうのはまあわかるけど、あれでなんだっけみたいな。他のものはオラオラオラってやってわからなさすぎて、死ぬみたいな。 よく吉野家とかで見かける生姜もりもりにして、七味とかソースかけてもはや何食べてるんだっけみたいな状態。あれ、ワンチャン俺かも。
+作品自体の試行錯誤自体が内なるものばかりで、プロダクト自体が機能的であったり、はっきりしなかったからかな。
+Design Historyっぽい物自体は廊下にあって、街における空きの場所やNY自体がスタバ飽和状態によって地域らしさっていうか、ローカルが立ち向かえない問題に対してどのように戦略的に対抗するか見たいな展示などがあった。
+mzんさんだったらブチ切れてた展示だから、なんとも。 っといいながら、卒論が進まないワイみたいな矛盾。
+FITのAdvertising とかもおなじような感じだったかも。企業とコラボとかしていて、ユーザーのリサーチが1ミリもなくって、プロダクトだしてわいわいペルソナ、わいわいpost it noteみたいな。イタリア工科大学みたいにガッデムって言って、全部否定するみたいな人一人でも出て来てもいいなって思ったけど、ちょっと違うらしい。なんかこういう学部が美大とかあるのが芸大でアプリのUIだけを作り続けてると聞いた時と同じような違和感を感じた。多分自分自身がそうだからかもしれないけど、全体的にwicked problemに対して一つの部分をぐりぐりしていて、他の部分を見たい人への抵抗だと思う。SFC病かなこれ。
+NYとかLAのデザイナーもそうでだけど、
+最終的なアウトプットとしてのメディア自体がなんらかで制限されていたとしても、[](http://designresearch.sva.edu/research/power-is-boring/)
+ 歴史がなく、を教える人がそもそもいなさげなので、
+経済産業省のPolicy Designerとして、Parsons Transdisciplinary Design に留学してる　Naoki氏と話し合う なおきさん自身は法学部を卒業してから、経済産業省へ入省して、資源・エネルギー政策、クールジャパン政策、などと７年間様々な行政分野に携わってきた人間である。そして、あえて公務員の留学先の公共政策学、経済学、経営学(MBA）などがメジャーの中であえて前例のない「Master of Fine Arts = MFA」（美術学修士）に行くっていうファンキーなことをする人です。</description>
+    </item>
     
     <item>
       <title>Slush Asia 2015</title>
@@ -19,24 +45,6 @@
       <guid>https://kkshmz.github.io/projects/slushasia2015/</guid>
       <description>Slush Asia is a project that was started in 2015 with the help of Taizo Son and members of Mistletoe, being the first international Slush that was held outside of Finland. Slush is originally an event that brings together entrepreneurs, investors, startups and students together to discuss and collaborate on working towards the future.  Overview of mainstage  
 Slush Asia 2015 was held in an outside venue in Odaiba, with the use of &amp;ldquo;White Rock&amp;rdquo; dome shaped tents that gave a certain appeal of &amp;ldquo;exploration&amp;rdquo; that the startups themselves are doing in terms of business  Overview of mainstage</description>
-    </item>
-    
-    <item>
-      <title>Before enrolling into a thing called &#39;College&#39;</title>
-      <link>https://kkshmz.github.io/blog/startingsfc/</link>
-      <pubDate>Tue, 27 Feb 2018 13:57:38 +0900</pubDate>
-      
-      <guid>https://kkshmz.github.io/blog/startingsfc/</guid>
-      <description>自分がSFCに入学するときに知りたかったこととか、書いてみる。
-目次  始まり 僻地を使おう！ 研究会  ツール  &amp;nbsp;
-始まり ４年まじで早いからな。
-データまじ卍 SFCの一つの利点としては、縦のつながりが以上に強いって言うのと、割と自由なところ。 あとは、インフラがやばいほどではないけど、 データの管理の仕方が最後にめっちゃ役に立つから、それを大事にすること。 →自分自身は全部githubで管理しているけど、そのためにKeio Driveみたいなのが存在していて最初は外部シェアリングの設定されてないけど、詳細設定から外部も参加できることができるように設定できる。Github入れるときには、年度で分けて、submoduleにしたりして、管理してる。そうすれば、一年で上限の2GBが使える。
- Driveに入れると、４年で卒業するときの最後にめっちゃデータを落とさないといけないから、結構大変かもだけど、便利。  最近のドライブのアプリだとSelective Syncといった自分でどのファイルを同期させるかが決められるから、結構便利。自分自身は自分のとKeio Driveを両方Finderに入れてる。   大学生っていうゴルデンチケット
-&amp;nbsp;
-研究会 SFCの研究会でなくってもいいっていう裏ルート SFCは一年生から入れてすごいみたいなのになってるけど、別に研究会がSFCじゃなくてもいいっていうオプションは常にある。 中に他の大学の研究会に聴講したりだとかする人も少なくはないし、そんな道もあるんだなとは思う。 SFCでも先生自体が他の大学と連携してたりしていて、そういう機会もあったりもする。 例でいうと、鈴木寛先生の研究会などは東大と合同などで実施されることだってあるし、他の研究会などで外部の研究者などとの関わりがあったりするし他にもいっぱいあると思うから、「私僻地でまじ卍〜」みたいな話できるけど、外に出ることもできるよと。
-研究会決める時間帯 脇田先生がいつも研究会の説明会などで言ってるのは、3年間ぐらいどこかに所属していて、死ぬ気で頑張ればいいものを作れる人になれると言ってて、4年になった今少しその気持ちはわかる。 「研究すること自体が大学の意味だ」「SFCは一年生から研究会から入れる意味考えろ！」みたいな話はよくされるのですが、そういう人は外部での活動であったりをすることにおけるメリットに目を向けない人たちばかりだと思うし、そういうのに関心がない人たちだと考えてる。
-高三からスタートアップを手伝って、大学一年生から２年生までSLUSHなどをやってた僕などは研究会などをこのタイミングでとってしまったら、時間がなくなってしまって、全然入る理由がなくなってしまうと思ってやめました。 結果を見ると、うまく行った反面もありますが、自分が作るものが自分の正義を語る世界の中だと、もっと早く回して、両立できる作戦を作り上げるのもよかったなとは思います。
-研究会の選択 理論をやればいいか、実験的にそれをやっていくべきなのかみたいな話は組織経営とか、会社を立ち上げるとか色々あると思うんだけどね。</description>
     </item>
     
     <item>
@@ -90,16 +98,6 @@ Credit In collaboration with:</description>
       <description>Being invited by Daijiro Mizuno Lab, I explored the technical possibilities and researched for initial prototypes and creation for the Yuima Nakazato 2018 Spring Summer Paris Couture Fashion Week.
 Inital concepts about the collection were traded among our team and the fashion label, creating initial sketches and prototypes that would give some vision on what kind of structure and detail could be made.
 Inspirations came from attractors and gravity fields, which held beauty in being simple mathmatical equations that harvested detailed graphical outputs</description>
-    </item>
-    
-    <item>
-      <title>Art</title>
-      <link>https://kkshmz.github.io/blog/art/</link>
-      <pubDate>Sat, 21 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://kkshmz.github.io/blog/art/</guid>
-      <description>Making something good. Art in many ways is to create or enlighten something for an audience, this could be to enlighten people to how much of their privacy is being used by companies or it could be to create a sense of thoughtfulness or remembereance by creating a unique melody through the ripples of an earthquake.
-I used to grow up thinking that making something good was something that was subjective, and that to make something was to cater to an audience with that specific taste.</description>
     </item>
     
     <item>
