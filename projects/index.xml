@@ -6,20 +6,10 @@
     <description>Recent content in Projects on Kye &#39;kkshmz&#39; Shimizu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Apr 2018 01:13:02 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 18 Feb 2018 22:47:10 +0900</lastBuildDate>
     
 	<atom:link href="https://kkshmz.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Slush Asia 2015</title>
-      <link>https://kkshmz.github.io/projects/slushasia2015/</link>
-      <pubDate>Wed, 04 Apr 2018 01:13:02 +0900</pubDate>
-      
-      <guid>https://kkshmz.github.io/projects/slushasia2015/</guid>
-      <description>Slush Asia is a project that was started in 2015 with the help of Taizo Son and members of Mistletoe, being the first international Slush that was held outside of Finland. Slush is originally an event that brings together entrepreneurs, investors, startups and students together to discuss and collaborate on working towards the future.  Overview of mainstage   
-Slush Asia 2015 was held in an outside venue in Odaiba, with the use of &amp;ldquo;White Rock&amp;rdquo; dome shaped tents that gave a certain appeal of &amp;ldquo;exploration&amp;rdquo; that the startups themselves are doing in terms of business  Overview of mainstage</description>
-    </item>
     
     <item>
       <title>ACT Festival Korea</title>
@@ -133,6 +123,16 @@ The first is the shutter speed of the smartphone, which was displayed by the use
       <guid>https://kkshmz.github.io/projects/slushasia2016/</guid>
       <description>Slush Asia is a project that was started in 2015 with the help of Taizo Son and members of Mistletoe, being the first international Slush that was held outside of Finland. Slush is originally an event that brings together entrepreneurs, investors, startups and students together to discuss and collaborate on working towards the future.  overview of the venue   
 Slush Asia 2016 was the first event that respected the ways in which Slush in Finland was organized and run by wholly by approximately 2000 students in Finland.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kkshmz.github.io/projects/slushasia2015/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kkshmz.github.io/projects/slushasia2015/</guid>
+      <description>cd&amp;mdash; title: &amp;ldquo;Slush Asia 2015&amp;rdquo; description: &amp;ldquo;Creation of a international startup event in Japan&amp;rdquo; date: 2015-04-04T01:13:02+09:00 draft: false layout: &amp;ldquo;single&amp;rdquo;
+ogp: &amp;ldquo;/img/projects/slushasia2015/2015_ogp.jpg&amp;rdquo;   Slush Asia is a project that was started in 2015 with the help of Taizo Son and members of Mistletoe, being the first international Slush that was held outside of Finland. Slush is originally an event that brings together entrepreneurs, investors, startups and students together to discuss and collaborate on working towards the future.</description>
     </item>
     
   </channel>
